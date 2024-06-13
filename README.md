@@ -1,3 +1,3 @@
-# blogproject.github.io
+# blogproject
 
 Web Development 2 Scripting and Database 
